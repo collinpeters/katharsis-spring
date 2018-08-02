@@ -2,6 +2,7 @@
 
 The Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON API standard.
 
+
 # katharsis-spring
 
 [![Build Status](https://travis-ci.org/katharsis-project/katharsis-spring.svg?branch=development)](https://travis-ci.org/katharsis-project/katharsis-spring)
