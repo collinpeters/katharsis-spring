@@ -5,6 +5,7 @@ The Katharsis library adds an additional layer on top of RESTful endpoint to pro
 
 # katharsis-spring
 
+[![DepShield Badge](https://staging.depshield.sonatype.org/badges/collinpeters/katharsis-spring/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 [![Build Status](https://travis-ci.org/katharsis-project/katharsis-spring.svg?branch=development)](https://travis-ci.org/katharsis-project/katharsis-spring)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/katharsis-project/katharsis-spring?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Dependency Status](https://www.versioneye.com/user/projects/56633a72f376cc002c000be8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56633a72f376cc002c000be8)
